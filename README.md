@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mora is a content‑marketing platform that creates, publishes and promotes brand posts and ads across Meta, Google, LinkedIn and TikTok. It aggregates weekly ads from thousands of brands, offers a free plan, and provides tools for agencies to manage campaigns, track performance and generate AI‑assisted copy. The service targets brands, agencies and marketers looking to automate social media advertising and content distribution.
+Mora is a Boston‑based marketing software platform that helps small teams and solo founders create and publish social media posts and run ads across Meta, Google, LinkedIn, TikTok and Instagram. It automates content generation, ad creation, and provides an ad library of competitor ads. Users can manage multiple brand workspaces, schedule posts, and access video creation tools. The service offers free, Core, Pro, and agency plans, with features scaling from single‑brand free usage to multi‑brand agency solutions.
 
-**Areas:** Marketing · Content · Social Media · Advertising · Automation · Company
+**Areas:** Marketing · SaaS · Social Media · Advertising · Content Generation · Company
 
 ## Mora on APIs.io
 
@@ -124,7 +124,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://www.mora-marketer.com/)
 - [Documentation](https://www.mora-marketer.com/developers/mcp)
-- [API reference](https://app.mora-marketer.com/.well-known/api-catalog)
+- [API reference](https://www.mora-marketer.com/llms.txt)
 - [Pricing](https://www.mora-marketer.com/pricing)
 - [Blog](https://www.mora-marketer.com/blog)
 - [Terms of service](https://www.mora-marketer.com/legal/terms-of-service)
